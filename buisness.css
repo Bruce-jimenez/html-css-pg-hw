@@ -1,0 +1,33 @@
+body{
+    background-color: rgba(232, 233, 164, 0.849);
+    
+    margin-left: 75px ;
+    margin-right: 75px;
+}
+nav{
+    display: flex;
+    flex-direction: row ;
+    justify-content: space-around;
+
+    font-size: 25px;
+
+    color: rgb(255, 255, 255);
+    background-color: maroon;
+}
+
+.point{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+   
+}
+
+img{
+    display: block;
+    height: 200px;
+    width: 275px;
+}
+ #Synopsis{
+    
+    align-items: start;
+} 
